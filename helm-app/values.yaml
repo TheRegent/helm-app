@@ -1,0 +1,14 @@
+image:
+  name: website-rick-and-morty-app
+  repository: regentt/rick-morty-app 
+  tag: latest
+
+service:
+  name: website-rick-and-morty-service
+  port: 80
+
+ingress:
+  name: website-rick-and-morty-ingress
+  enabled: true
+  host: myrickandmorty.com
+

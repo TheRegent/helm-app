@@ -1,0 +1,21 @@
+apiVersion: v2
+name: Rick-and-Morty-Chart
+description: Helm Chart for my pet-project
+type: application
+version: 0.1.0
+appVersion: "1.2.3"
+
+keywords:
+  - html
+  - css
+  - javascript
+  - website
+  - rick and morty
+
+sources:
+  - https://github.com/AshnaWiar/website-rick-and-morty
+
+maintainers:
+  - name: Fedir Kobilinskiy
+    email: kobilinskiy@gmail.com
+    url: https://www.linkedin.com/in/fedir-kobilinskiy/
